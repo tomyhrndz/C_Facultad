@@ -21,12 +21,12 @@ struct final{
 };
 void bin();
 void opera();
-//void imprimir();
+void imprimir();
 int main()
 {
     bin();
     opera();
-    //imprimir();
+    imprimir();
     return 0;
 }
 void bin()
@@ -164,8 +164,8 @@ void opera()
         cont--;
         porcA=(float)contA*100/cont;
         printf("El porcentaje de ausentismo es del %%%.2f\n",porcA);
-        //printf("Hubo %d entradas demoradas\n",contT);
-        //printf("Hubo %d fichadas erroneas\n\n",error);
+        printf("Hubo %d entradas demoradas\n",contT);
+        printf("Hubo %d fichadas erroneas\n\n",error);
     }
     fclose(bin1);
     fclose(bin2);
