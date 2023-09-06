@@ -1,0 +1,17 @@
+bicic  5
+bicic  7
+bicic  6
+bicic  5
+carre  10
+carre  15
+carre  9
+carre  16
+carre  12
+natac  10
+natac  16
+natac  20
+natac  5
+patin  4
+patin  7
+patin  6
+patin  8

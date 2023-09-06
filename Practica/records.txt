@@ -1,0 +1,4 @@
+carre  carrera   10
+patin  patin     4
+bicic  bicicleta 7
+natac  natacion  18
